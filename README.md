@@ -9,6 +9,9 @@ This assignment introduces key NLP concepts, including:
 - Named Entity Recognition (NER)
 - Converting text into numerical representations (vectorization)
 - Word embeddings (advanced topic)
+- Sentiment Analysis
+- Text Classification
+- Visualization
 
 ## Requirements
 - Python 3.8 or higher
